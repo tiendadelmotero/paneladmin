@@ -4,7 +4,8 @@
 		<title>Panel de control</title>
         
         <meta charset="utf-8" />
-        
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
         <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
         <link rel="stylesheet" href="assets/css/bootstrap-theme.min.css" />
         <link rel="stylesheet" href="assets/js/jquery-ui/jquery-ui.min.css" />
